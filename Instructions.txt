@@ -1,0 +1,38 @@
+User Guide for FIB-SEM Image Denoising Code
+===========================================
+
+1. Requirements
+---------------
+- Python 3.8
+- Required packages (install via pip):
+  matplotlib==3.7.2
+  numpy==1.23.5
+  opencv_python==4.10.0.84
+  tensorflow==2.3.0
+
+Install dependencies:
+    pip install -r dependence.txt
+
+2. Files in the package
+-----------------------
+- train.py          # Script to train the CNN denoising model
+- denoise.py        # Script to apply the trained model on test images
+- model.py          # Model architecture
+- requirements.txt  # Python dependencies
+- test_data/        # Folder with sample input images
+- output_example/   # Folder with example output results
+
+3. How to run the code
+----------------------
+Step 1: Prepare the environment  
+Install Python and required packages (see Requirements).
+
+Step 2: Test denoising  
+Run the following command in terminal:
+
+    python denoise.py --input ./test_data/sample_image.jpg --output ./output_example/denoised_result.jpg
+
+Step 3: Check the result  
+Compare the output image with the provided example in ./output_example.
+
+
