@@ -1,1 +1,1 @@
-训练集：含噪声图像
+Training set: Noisy images

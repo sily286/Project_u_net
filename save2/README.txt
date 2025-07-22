@@ -1,1 +1,1 @@
-训练集：对应干净图像
+Training set: Corresponding clean images

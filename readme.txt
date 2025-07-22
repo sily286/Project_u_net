@@ -14,7 +14,7 @@ All files are provided for reproducibility and academic use.
 
 Files included:
 - readme.txt (this file)
-- Instructions.txt (user manual)
+- Requirements.txt (user manual)
 - dependence.txt
 - Source code files (.py)
 - Test data (small sample FIB-SEM images)
