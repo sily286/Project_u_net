@@ -6,7 +6,7 @@ Authors:
 - Wen Xu (Corresponding Author)  
   Email: 2268296329@qq.com  
 
-Journal: Computers & Geosciences
+
 
 Description:
 This package contains the source code, test data, and example outputs for the denoising method proposed in the above manuscript.  
